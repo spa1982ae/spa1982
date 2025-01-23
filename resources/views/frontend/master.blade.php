@@ -311,9 +311,8 @@
                         <h1 class="mb-4">Best Relax And Spa Zone</h1>
                         <p>Unwind and recharge with our tailored spa treatments for men, offering a blend of relaxation, rejuvenation, and expert care to address your unique needs, leaving you refreshed, revitalized, and ready to take on the world.</p>
                         <ul class="list-inline">
-                            <li class="h6 py-1"><i class="far fa-circle text-primary mr-3"></i>Mon – Fri : 9:00 AM - 7:00 PM</li>
-                            <li class="h6 py-1"><i class="far fa-circle text-primary mr-3"></i>Saturday : 9:00 AM - 6:00 PM</li>
-                            <li class="h6 py-1"><i class="far fa-circle text-primary mr-3"></i>Sunday : Closed</li>
+                            <li class="h6 py-1"><i class="far fa-circle text-primary mr-3"></i>Mon - Thu, Sat - Sun : 10:00 AM - 10:30 PM</li>
+                            <li class="h6 py-1"><i class="far fa-circle text-primary mr-3"></i>Friday : 2:00 PM - 10:30 PM</li>
                         </ul>
                         <a href="" class="btn btn-primary mt-2">Book Now</a>
                     </div>
