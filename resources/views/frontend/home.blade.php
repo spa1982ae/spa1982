@@ -19,10 +19,11 @@
                     <p><i class="fa fa-phone-alt mr-2"></i>+971 50 314 8653</p>
                     <p><i class="fa fa-envelope mr-2"></i>aywane82@gmail.com</p>
                     <div class="d-flex justify-content-start mt-4">
-                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="btn btn-lg btn-primary btn-lg-square" href="#"><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://www.facebook.com/share/ibXVjj7N97sKkLXr/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://www.instagram.com/spa_center_1982/profilecard/?igsh=MXE1ZW01cTV3dTQwbg=="><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4"><i class="fab fa-youtube"></i></a>
+
+                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://www.tiktok.com/@1982spallc?_t=ZS-8skzpVjvHI0&_r=1"><i class="bi bi-tiktok"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 pl-lg-5">

@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <title>SPA 1982 LLC</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
+    <meta content="Spa1982" name="keywords">
+    <meta content="Spa1982" name="description">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -43,20 +43,20 @@
             </div>
             <div class="col-lg-6 text-right">
                 <div class="d-inline-flex align-items-center">
-                    <a class="text-primary px-2" href="">
+                    <a class="text-primary px-2" href="https://www.facebook.com/share/nfqo6MKwfapFcYAT/?mibextid=wwXIfr">
                         <i class="fab fa-facebook-f"></i>
                     </a>
-                    <a class="text-primary px-2" href="">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a class="text-primary px-2" href="">
-                        <i class="fab fa-linkedin-in"></i>
-                    </a>
-                    <a class="text-primary px-2" href="">
+                    <a class="text-primary px-2" href="https://www.instagram.com/spa_center_1982/profilecard/?igsh=MXE1ZW01cTV3dTQwbg==">
                         <i class="fab fa-instagram"></i>
                     </a>
-                    <a class="text-primary pl-2" href="">
+                    <a class="text-primary pl-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4">
                         <i class="fab fa-youtube"></i>
+                    </a>
+                    <a class="text-primary px-2" href="https://snapchat.com/t/r3b5dHPA">
+                        <i class="fab fa-snapchat"></i>
+                    </a>
+                    <a class="text-primary px-2" href="https://www.tiktok.com/@1982spallc?_t=ZS-8skzpVjvHI0&_r=1">
+                        <i class="fab fa-tiktok"></i>
                     </a>
                 </div>
             </div>
@@ -76,13 +76,13 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav m-auto py-0">
-                    <a href="#" class="nav-item nav-link active">Home</a>
+                    <a href="" class="nav-item nav-link active">Home</a>
                     <a href="#" class="nav-item nav-link">About</a>
                     <a href="#" class="nav-item nav-link">Services</a>
                     <a href="#" class="nav-item nav-link">Pricing</a>
                     <a href="#" class="nav-item nav-link">Contact</a>
                 </div>
-                <a href="" class="btn btn-primary d-none d-lg-block">Book Now</a>
+                <a href="#" class="btn btn-primary d-none d-lg-block">Book Now</a>
             </div>
         </nav>
     </div>
@@ -498,6 +498,13 @@
         </div>
     </div>
     <!-- Testimonial End --> --}}
+
+
+    <div class="embed-responsive embed-responsive-16by9">
+
+        <iframe class="embed-responsive-item"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1081.7201176767956!2d55.75710069546188!3d24.22574534133848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e8ab1b2b88a76f9%3A0x6026da310a8424ee!2sSpa%20%26%20center%201982!5e0!3m2!1sen!2sae!4v1746969404159!5m2!1sen!2sae" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
 
 
     @yield('footer')
