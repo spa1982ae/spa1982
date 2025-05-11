@@ -22,8 +22,8 @@
                         <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://www.facebook.com/share/ibXVjj7N97sKkLXr/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://www.instagram.com/spa_center_1982/profilecard/?igsh=MXE1ZW01cTV3dTQwbg=="><i class="fab fa-instagram"></i></a>
                         <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4"><i class="fab fa-youtube"></i></a>
-
-                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://www.tiktok.com/@1982spallc?_t=ZS-8skzpVjvHI0&_r=1"><i class="bi bi-tiktok"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://snapchat.com/t/r3b5dHPA"><i class="fab fa-snapchat"></i></a>
+                        <a class="btn btn-lg btn-primary btn-lg-square mr-2" href="https://x.com/1982spa?s=21&t=uisgt9VdliDpwBltykZ3lA"><i class="fab fa-twitter"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 pl-lg-5">
@@ -34,7 +34,6 @@
                                 <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Home</a>
                                 <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>About Us</a>
                                 <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Services</a>
-                                <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Pricing Plan</a>
                                 <a class="text-white-50" href="#"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                             </div>
                         </div>

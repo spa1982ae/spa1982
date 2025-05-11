@@ -49,14 +49,14 @@
                     <a class="text-primary px-2" href="https://www.instagram.com/spa_center_1982/profilecard/?igsh=MXE1ZW01cTV3dTQwbg==">
                         <i class="fab fa-instagram"></i>
                     </a>
-                    <a class="text-primary pl-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4">
+                    <a class="text-primary px-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4">
                         <i class="fab fa-youtube"></i>
                     </a>
                     <a class="text-primary px-2" href="https://snapchat.com/t/r3b5dHPA">
                         <i class="fab fa-snapchat"></i>
                     </a>
-                    <a class="text-primary px-2" href="https://www.tiktok.com/@1982spallc?_t=ZS-8skzpVjvHI0&_r=1">
-                        <i class="fab fa-tiktok"></i>
+                    <a class="text-primary px-2" href="https://x.com/1982spa?s=21&t=uisgt9VdliDpwBltykZ3lA">
+                        <i class="fab fa-twitter"></i>
                     </a>
                 </div>
             </div>
@@ -79,7 +79,6 @@
                     <a href="" class="nav-item nav-link active">Home</a>
                     <a href="#" class="nav-item nav-link">About</a>
                     <a href="#" class="nav-item nav-link">Services</a>
-                    <a href="#" class="nav-item nav-link">Pricing</a>
                     <a href="#" class="nav-item nav-link">Contact</a>
                 </div>
                 <a href="#" class="btn btn-primary d-none d-lg-block">Book Now</a>
@@ -98,7 +97,7 @@
                 <li data-target="#header-carousel" data-slide-to="2"></li>
             </ol>
             <div class="carousel-inner">
-                <div class="carousel-item position-relative active" style="min-height: 100vh;">
+                <div class="carousel-item position-relative active" style="min-height: 80vh;">
                     <img class="position-absolute w-100 h-100" src="img/carousel-1.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
@@ -109,7 +108,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item position-relative" style="min-height: 100vh;">
+                <div class="carousel-item position-relative" style="min-height: 80vh;">
                     <img class="position-absolute w-100 h-100" src="img/carousel-2.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
@@ -120,7 +119,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item position-relative" style="min-height: 100vh;">
+                <div class="carousel-item position-relative" style="min-height: 80vh;">
                     <img class="position-absolute w-100 h-100" src="img/carousel-3.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
