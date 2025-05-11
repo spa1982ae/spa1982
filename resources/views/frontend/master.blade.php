@@ -281,102 +281,14 @@
     <!-- Open Hours End -->
 
 
-    {{-- <!-- Pricing Start -->
-    <div class="container-fluid bg-pricing" style="margin: 90px 0;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5" style="min-height: 500px;">
-                    <div class="position-relative h-100">
-                        <img class="position-absolute w-100 h-100" src="img/pricing.jpg" style="object-fit: cover;">
-                    </div>
-                </div>
-                <div class="col-lg-7 pt-5 pb-lg-5">
 
-                    <div class="pricing-text bg-light p-4 p-lg-5 my-lg-5">
-                        <h6 class="d-inline-block text-white text-uppercase bg-primary py-1 px-2">Our Services</h6>
+    <!-- YT Shorts Start -->
 
-                        <div class="owl-carousel pricing-carousel">
-                            <div class="bg-white">
-                                <div class="p-4">
-                                    <img src="img/price1.jpg" class="rounded" alt="...">
-                                </div>
-                            </div>
-                            <div class="bg-white">
-                                <div class="p-4">
-                                    <img src="img/price2.jpg" class="rounded" alt="...">
-                                </div>
-                            </div>
-                            <div class="bg-white">
-                                <div class="p-4">
-                                    <img src="img/price3.jpg" class="rounded" alt="...">
-                                </div>
-                            </div>
-                            <div class="bg-white">
-                                <div class="p-4">
-                                    <img src="img/price4.jpg" class="rounded" alt="...">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Pricing End --> --}}
+    <div class="embed-responsive embed-responsive-4by3">
+        <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/SF0GUeeL4r0?si=uNTPa6bBwUdkbDQu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    <!-- YT Shorts End -->
 
-
-
-
-    {{-- <!-- Testimonial Start -->
-    <div class="container-fluid py-5">
-        <div class="container py-5">
-            <div class="row align-items-center">
-                <div class="col-lg-6 pb-5 pb-lg-0">
-                    <img class="img-fluid w-100" src="img/testimonial.jpg" alt="">
-                </div>
-                <div class="col-lg-6">
-                    <h6 class="d-inline-block text-primary text-uppercase bg-light py-1 px-2">Testimonial</h6>
-                    <h1 class="mb-4">What Our Clients Say!</h1>
-                    <div class="owl-carousel testimonial-carousel">
-                        <div class="position-relative">
-                            <i class="fa fa-3x fa-quote-right text-primary position-absolute" style="top: -6px; right: 0;"></i>
-                            <div class="d-flex align-items-center mb-3">
-                                <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg" style="width: 60px; height: 60px;" alt="">
-                                <div class="ml-3">
-                                    <h6 class="text-uppercase">Client Name</h6>
-                                    <span>Profession</span>
-                                </div>
-                            </div>
-                            <p class="m-0">Aliquyam sed elitr elitr erat sed diam ipsum eirmod eos lorem nonumy. Tempor sea ipsum diam  sed clita dolore eos dolores magna erat dolore sed stet justo et dolor.</p>
-                        </div>
-                        <div class="position-relative">
-                            <i class="fa fa-3x fa-quote-right text-primary position-absolute" style="top: -6px; right: 0;"></i>
-                            <div class="d-flex align-items-center mb-3">
-                                <img class="img-fluid rounded-circle" src="img/testimonial-2.jpg" style="width: 60px; height: 60px;" alt="">
-                                <div class="ml-3">
-                                    <h6 class="text-uppercase">Client Name</h6>
-                                    <span>Profession</span>
-                                </div>
-                            </div>
-                            <p class="m-0">Aliquyam sed elitr elitr erat sed diam ipsum eirmod eos lorem nonumy. Tempor sea ipsum diam  sed clita dolore eos dolores magna erat dolore sed stet justo et dolor.</p>
-                        </div>
-                        <div class="position-relative">
-                            <i class="fa fa-3x fa-quote-right text-primary position-absolute" style="top: -6px; right: 0;"></i>
-                            <div class="d-flex align-items-center mb-3">
-                                <img class="img-fluid rounded-circle" src="img/testimonial-3.jpg" style="width: 60px; height: 60px;" alt="">
-                                <div class="ml-3">
-                                    <h6 class="text-uppercase">Client Name</h6>
-                                    <span>Profession</span>
-                                </div>
-                            </div>
-                            <p class="m-0">Aliquyam sed elitr elitr erat sed diam ipsum eirmod eos lorem nonumy. Tempor sea ipsum diam  sed clita dolore eos dolores magna erat dolore sed stet justo et dolor.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Testimonial End --> --}}
 
 
 
@@ -428,12 +340,45 @@
                                             <option value="4">Footspa</option>
                                             <option value="5">Manicure/pedicure</option>
                                             <option value="6">Relaxing Massage</option>
-                                            <option value="3">Sport Massage</option>
-                                            <option value="3">Stone Massage</option>
-                                            <option value="3">Hot Oil Massage</option>
-                                            <option value="3">Swedish Massage</option>
-                                            <option value="3">Combination Massage Swedish</option>
-                                            <option value="3">Lomi-Lomi Massage</option>
+                                            <option value="7">Sport Massage</option>
+                                            <option value="8">Stone Massage</option>
+                                            <option value="9">Hot Oil Massage</option>
+                                            <option value="10">Swedish Massage</option>
+                                            <option value="11">Combination Massage Swedish</option>
+                                            <option value="12">Lomi-Lomi Massage</option>
+                                            <option value="13">Normal Morroccan Bath</option>
+                                            <option value="14">Special Morroccan Bath</option>
+                                            <option value="15">VIP Morroccan Bath Oud amber</option>
+                                            <option value="16">Oxygen Morroccan Bath</option>
+                                            <option value="17">Morroccan Bath with Optional Flavor</option>
+                                            <option value="18">Body Scrub Normal</option>
+                                            <option value="19">Body Scrub with Steam</option>
+                                            <option value="20">Legs Shaving</option>
+                                            <option value="21">Chest Shaving</option>
+                                            <option value="22">Back Shaving</option>
+                                            <option value="23">Hand Shaving</option>
+                                            <option value="24">Wax Legs</option>
+                                            <option value="25">Wax Chest</option>
+                                            <option value="26">Wax Back</option>
+                                            <option value="27">Whole Body Wax</option>
+                                            <option value="28">Whole Body Shave Machine</option>
+                                            <option value="29">Beard Shaving</option>
+                                            <option value="30">Hair Cutting</option>
+                                            <option value="31">Beard Color</option>
+                                            <option value="32">Hair Color</option>
+                                            <option value="33">Nose and Ear Waxing</option>
+                                            <option value="34">Blow Dry Short Hair</option>
+                                            <option value="35">Blow Dry Long Hair</option>
+                                            <option value="36">Hair Keratin Short</option>
+                                            <option value="37">Hair Keratin Long</option>
+                                            <option value="38">Hair Protien</option>
+                                            <option value="39">Hair Botox</option>
+                                            <option value="40">Hair Straightening</option>
+                                            <option value="41">Normal Facial</option>
+                                            <option value="42">Special Facial</option>
+                                            <option value="43">Royal Facial</option>
+                                            <option value="44">1982 Facial</option>
+                                            <option value="45">Deep Tissue Facial</option>
                                         </select>
                                     </div>
                                 </div>
@@ -448,12 +393,12 @@
         </div>
         <!-- Appointment End -->
 
+        <!-- Location Start -->
+        <div class="embed-responsive embed-responsive-16by9">
 
-    <div class="embed-responsive embed-responsive-16by9">
-
-        <iframe class="embed-responsive-item"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1081.7201176767956!2d55.75710069546188!3d24.22574534133848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e8ab1b2b88a76f9%3A0x6026da310a8424ee!2sSpa%20%26%20center%201982!5e0!3m2!1sen!2sae!4v1746969404159!5m2!1sen!2sae" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-
+            <iframe class="embed-responsive-item"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1081.7201176767956!2d55.75710069546188!3d24.22574534133848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e8ab1b2b88a76f9%3A0x6026da310a8424ee!2sSpa%20%26%20center%201982!5e0!3m2!1sen!2sae!4v1746969404159!5m2!1sen!2sae" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <!-- Location End -->
 
 
     @yield('footer')
@@ -481,6 +426,7 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
 </body>
 
 </html>
