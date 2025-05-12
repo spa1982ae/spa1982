@@ -7,9 +7,10 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Spa1982" name="keywords">
     <meta content="Spa1982" name="description">
+    <meta name="csrf-token" content="{{csrf_token()}}">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="{{asset('favicon.ico')}}" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -190,10 +191,11 @@
                                 <p class="m-0">Care Section</p>
                             </div>
                             <div class="team-social bg-dark text-center">
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-outline-primary btn-square" href="#"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://www.facebook.com/share/ibXVjj7N97sKkLXr/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://www.instagram.com/spa_center_1982/profilecard/?igsh=MXE1ZW01cTV3dTQwbg=="><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4"><i class="fab fa-youtube"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://snapchat.com/t/r3b5dHPA"><i class="fab fa-snapchat"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://x.com/1982spa?s=21&t=uisgt9VdliDpwBltykZ3lA"><i class="fab fa-twitter"></i></a>
                             </div>
                         </div>
                     </div>
@@ -207,10 +209,11 @@
                                 <p class="m-0">Relaxation Section</p>
                             </div>
                             <div class="team-social bg-dark text-center">
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-outline-primary btn-square" href="#"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://www.facebook.com/share/ibXVjj7N97sKkLXr/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://www.instagram.com/spa_center_1982/profilecard/?igsh=MXE1ZW01cTV3dTQwbg=="><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4"><i class="fab fa-youtube"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://snapchat.com/t/r3b5dHPA"><i class="fab fa-snapchat"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://x.com/1982spa?s=21&t=uisgt9VdliDpwBltykZ3lA"><i class="fab fa-twitter"></i></a>
                             </div>
                         </div>
                     </div>
@@ -224,10 +227,11 @@
                                 <p class="m-0">Oriental Bath Section</p>
                             </div>
                             <div class="team-social bg-dark text-center">
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-outline-primary btn-square" href="#"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://www.facebook.com/share/ibXVjj7N97sKkLXr/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://www.instagram.com/spa_center_1982/profilecard/?igsh=MXE1ZW01cTV3dTQwbg=="><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4"><i class="fab fa-youtube"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://snapchat.com/t/r3b5dHPA"><i class="fab fa-snapchat"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://x.com/1982spa?s=21&t=uisgt9VdliDpwBltykZ3lA"><i class="fab fa-twitter"></i></a>
                             </div>
                         </div>
                     </div>
@@ -241,10 +245,11 @@
                                 <p class="m-0">Care Section</p>
                             </div>
                             <div class="team-social bg-dark text-center">
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-outline-primary btn-square mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-outline-primary btn-square" href="#"><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://www.facebook.com/share/ibXVjj7N97sKkLXr/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://www.instagram.com/spa_center_1982/profilecard/?igsh=MXE1ZW01cTV3dTQwbg=="><i class="fab fa-instagram"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://youtube.com/@aywane82?si=R3TUIRqYg9DVPPi4"><i class="fab fa-youtube"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://snapchat.com/t/r3b5dHPA"><i class="fab fa-snapchat"></i></a>
+                                <a class="btn btn-outline-primary btn-square mr-2" href="https://x.com/1982spa?s=21&t=uisgt9VdliDpwBltykZ3lA"><i class="fab fa-twitter"></i></a>
                             </div>
                         </div>
                     </div>
