@@ -10,8 +10,8 @@
         <div class="container pt-5">
             <div class="row">
                 <div class="col-lg-6 pr-lg-5 mb-5">
-                    <a href="index.html" class="navbar-brand">
-                        <h1 class="mb-3 text-white"><span class="text-primary">SPA</span> 1982</h1>
+                    <a href="{{url('/')}}" class="navbar-brand">
+                        <img src="img/spa1982logo.png" width="200" height="80" class="d-inline-block align-top" alt="">
                     </a>
                     <p>Welcome to SPA 1982 for men, the ultimate destination for men’s wellness and relaxation. At our spa, we offer a wide range of services tailored specifically to the needs of men. </p>
                     <p><i class="fa fa-map-marker-alt mr-2"></i>Al Mandous Blg. Floor 3, Hessa Bint Mohammed Street, Al Ain</p>
@@ -30,20 +30,20 @@
                     <div class="row">
                         <div class="col-sm-6 mb-5">
                             <h5 class="text-white text-uppercase mb-4">Quick Links</h5>
-                            <div class="d-flex flex-column justify-content-start">
-                                <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Home</a>
-                                <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>About Us</a>
-                                <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Our Services</a>
-                                <a class="text-white-50" href="#"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                            <div class="d-flex flex-column justify-content-start" data-spy="scroll" data-target="#nav-scroll" data-offset="0">
+                                <a class="text-white-50 mb-2" href="#home-sec"><i class="fa fa-angle-right mr-2"></i>Home</a>
+                                <a class="text-white-50 mb-2" href="#about-sec"><i class="fa fa-angle-right mr-2"></i>About Us</a>
+                                <a class="text-white-50 mb-2" href="#services-sec"><i class="fa fa-angle-right mr-2"></i>Our Services</a>
+                                <a class="text-white-50" href="#availability-sec"><i class="fa fa-angle-right mr-2"></i>Working Hours</a>
                             </div>
                         </div>
                         <div class="col-sm-6 mb-5">
                             <h5 class="text-white text-uppercase mb-4">Our Services</h5>
-                            <div class="d-flex flex-column justify-content-start">
-                                <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Hand and Foot Care Section</a>
-                                <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Body Massage Relaxation Section</a>
-                                <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Personal Care and Oriental Bath Section</a>
-                                <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Hair and Body Care Section</a>
+                            <div class="d-flex flex-column justify-content-start" data-spy="scroll" data-target="#nav-scroll" data-offset="0">
+                                <a class="text-white-50 mb-2" href="#services-sec"><i class="fa fa-angle-right mr-2"></i>Hand and Foot Care Section</a>
+                                <a class="text-white-50 mb-2" href="#services-sec"><i class="fa fa-angle-right mr-2"></i>Body Massage Relaxation Section</a>
+                                <a class="text-white-50 mb-2" href="#services-sec"><i class="fa fa-angle-right mr-2"></i>Personal Care and Oriental Bath Section</a>
+                                <a class="text-white-50 mb-2" href="#services-sec"><i class="fa fa-angle-right mr-2"></i>Hair and Body Care Section</a>
                             </div>
                         </div>
                         <div class="col-sm-12 mb-5">

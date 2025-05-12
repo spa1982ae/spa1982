@@ -106,7 +106,7 @@
                             <h6 class="text-white text-uppercase mb-3 animate__animated animate__fadeInDown" style="letter-spacing: 3px;">SPA 1982 & Center</h6>
                             <h3 class="display-3 text-capitalize text-white mb-3">Massage Treatment</h3>
                             <p class="mx-md-5 px-5">"Experience ultimate relaxation and stress relief with our expert massage treatments, designed to rejuvenate your body, calm your mind, and restore your natural balance for a renewed sense of well-being."</p>
-                            <a class="btn btn-outline-light py-3 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Make Appointment</a>
+                            <a class="btn btn-outline-light py-3 px-4 mt-3 animate__animated animate__fadeInUp" href="#appointment-sec">Make Appointment</a>
                         </div>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
                             <h6 class="text-white text-uppercase mb-3 animate__animated animate__fadeInDown" style="letter-spacing: 3px;">SPA 1982 & Center</h6>
                             <h3 class="display-3 text-capitalize text-white mb-3">Facial Treatment</h3>
                             <p class="mx-md-5 px-5">"Indulge in a luxurious facial treatment tailored to your skin's unique needs, enhancing your complexion with deep cleansing, nourishing ingredients, and soothing techniques for a radiant, youthful glow and rejuvenated skin."</p>
-                            <a class="btn btn-outline-light py-3 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Make Appointment</a>
+                            <a class="btn btn-outline-light py-3 px-4 mt-3 animate__animated animate__fadeInUp" href="#appointment-sec">Make Appointment</a>
                         </div>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
                             <h3 class="display-3 text-capitalize text-white mb-3">Hair Care</h3>
                             <p class="mx-md-5 px-5">
                                 "Transform your hair with our personalized hair care treatments, designed to nourish, strengthen, and revitalize your strands, leaving you with healthy, shiny, and beautifully styled hair that radiates confidence and vitality."</p>
-                            <a class="btn btn-outline-light py-3 px-4 mt-3 animate__animated animate__fadeInUp" href="#">Make Appointment</a>
+                            <a class="btn btn-outline-light py-3 px-4 mt-3 animate__animated animate__fadeInUp" href="#appointment-sec">Make Appointment</a>
                         </div>
                     </div>
                 </div>
