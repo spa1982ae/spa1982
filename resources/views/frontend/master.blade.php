@@ -68,7 +68,7 @@
 
     <!-- Navbar Start -->
     <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5" id="nav-scroll">
+        <nav class="navbar fixed-top navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5" id="nav-scroll">
             <a class="navbar-brand ml-lg-3" href="{{url('/')}}"><img src="img/spa1982logo.png" width="200" height="80" class="d-inline-block align-top" alt=""></a>
 
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
@@ -279,7 +279,7 @@
                             <li class="h6 py-1"><i class="far fa-circle text-primary mr-3"></i>Mon - Thu, Sat - Sun : 10:00 AM - 10:30 PM</li>
                             <li class="h6 py-1"><i class="far fa-circle text-primary mr-3"></i>Friday : 2:00 PM - 10:30 PM</li>
                         </ul>
-                        <a href="" class="btn btn-primary mt-2">Book Now</a>
+                        <a href="#appointment-sec" class="btn btn-primary mt-2">Book Now</a>
                     </div>
                 </div>
             </div>
