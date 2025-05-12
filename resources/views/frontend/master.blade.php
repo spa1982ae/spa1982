@@ -31,7 +31,7 @@
 
 <body>
     <!-- Topbar Start -->
-    <div class="container-fluid bg-light d-none d-lg-block">
+    {{-- <div class="container-fluid bg-light d-none d-lg-block">
         <div class="row py-2 px-lg-5">
             <div class="col-lg-6 text-left mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center">
@@ -62,7 +62,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- Topbar End -->
 
 

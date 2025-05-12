@@ -47,10 +47,10 @@
                             </div>
                         </div>
                         <div class="col-sm-12 mb-5">
-                            <h5 class="text-white text-uppercase mb-4">We Accept Payment</h5>
+                            <h5 class="text-white text-uppercase mb-4">Also Accept Payment</h5>
                             <div class="w-100">
                                 <div class="input-group">
-                                    <img src="img/payments.jpg" alt="..." class="rounded mx-auto d-block">
+                                    <img src="img/payments.jpg" width="250" height="50" alt="..." class="rounded mx-auto d-block">
                                 </div>
                             </div>
                         </div>
