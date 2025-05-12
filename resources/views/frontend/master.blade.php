@@ -67,21 +67,23 @@
 
     <!-- Navbar Start -->
     <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-            <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-primary"><span class="text-dark">SPA</span> 1982</h1>
-            </a>
+        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5" id="nav-scroll">
+            <a class="navbar-brand ml-lg-3" href="{{url('/')}}"><img src="img/spa1982logo.png" width="200" height="80" class="d-inline-block align-top" alt=""></a>
+
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
             </button>
+
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
-                <div class="navbar-nav m-auto py-0">
-                    <a href="" class="nav-item nav-link active">Home</a>
-                    <a href="#scrollspyHeading1" class="nav-item nav-link">About</a>
-                    <a href="#" class="nav-item nav-link">Services</a>
-                    <a href="#" class="nav-item nav-link">Contact</a>
-                </div>
-                <a href="#" class="btn btn-primary d-none d-lg-block">Book Now</a>
+                <ul class="navbar-nav m-auto py-0">
+                    <li class="nav-item active"><a href="#home-sec" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="#about-sec" class="nav-link">About</a></li>
+                    <li class="nav-item"><a href="#services-sec" class="nav-link">Services</a></li>
+                    <li class="nav-item"><a href="#availability-sec" class="nav-link">Work Hours</a></li>
+                </ul>
+                <span class="navbar-text">
+                    <a href="#appointment-sec" class="btn btn-primary d-none d-lg-block">Book Now</a>
+                </span>
             </div>
         </nav>
     </div>
@@ -89,8 +91,8 @@
 
 
     <!-- Carousel Start -->
-    <div class="container-fluid p-0 mb-5 pb-5">
-        <div id="header-carousel" class="carousel slide carousel-fade" data-ride="carousel">
+    <div class="container-fluid p-0 mb-5 pb-5" data-spy="scroll" data-target="#nav-scroll" data-offset="0">
+        <div id="header-carousel home-sec" class="carousel slide carousel-fade" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#header-carousel" data-slide-to="0" class="active"></li>
                 <li data-target="#header-carousel" data-slide-to="1"></li>
@@ -138,8 +140,8 @@
 
 
     <!-- About Start -->
-    <div class="container-fluid py-5">
-        <div class="container py-5">
+    <div class="container-fluid py-5" data-spy="scroll" data-target="#nav-scroll" data-offset="0">
+        <div class="container py-5" id="about-sec">
             <div class="row align-items-center">
                 <div class="col-lg-6 pb-5 pb-lg-0">
                     <img class="img-fluid w-100" src="img/about.jpg" alt="">
@@ -170,8 +172,8 @@
 
 
     <!-- Services Start -->
-    <div class="container-fluid py-5">
-        <div class="container pt-5">
+    <div class="container-fluid py-5" data-spy="scroll" data-target="#nav-scroll" data-offset="0">
+        <div class="container pt-5" id="services-sec">
             <div class="row justify-content-center text-center">
                 <div class="col-lg-6">
                     <h6 class="d-inline-block bg-light text-primary text-uppercase py-1 px-2">Our Services</h6>
@@ -255,8 +257,8 @@
 
 
     <!-- Open Hours Start -->
-    <div class="container-fluid py-5">
-        <div class="container py-5">
+    <div class="container-fluid py-5" data-spy="scroll" data-target="#nav-scroll" data-offset="0">
+        <div class="container py-5" id="availability-sec">
             <div class="row">
                 <div class="col-lg-6" style="min-height: 500px;">
                     <div class="position-relative h-100">
@@ -293,10 +295,10 @@
 
 
         <!-- Appointment Start -->
-        <div class="container-fluid px-0 py-5 my-5">
+        <div class="container-fluid px-0 py-5 my-5" data-spy="scroll" data-target="#nav-scroll" data-offset="0">
 
 
-            <div class="row justify-content-center bg-appointment mx-0">
+            <div class="row justify-content-center bg-appointment mx-0" id="appointment-sec">
                 <div class="col-lg-6 py-5">
                     <div class="p-5 my-5" style="background: rgba(33, 30, 28, 0.7);">
                         <h1 class="text-white text-center mb-4">Make Appointment</h1>
